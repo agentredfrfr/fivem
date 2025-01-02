@@ -1,3 +1,4 @@
+denvers map
 ---
 ns: CFX
 apiset: client
